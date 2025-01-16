@@ -1,9 +1,11 @@
 <h3 align="center">Hi, my name is Viktor Bureš👋</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=viktorbures&label=Profile%20views&color=0e75b6&style=flat" alt="viktorbures" /> </p>
+
 
 - 🌱 I’m currently learning **C, HTML and CSS**
 - 📫 How to reach me **viktor.bures@outlook.cz**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorbures&label=Profile%20views&color=0e75b6&style=flat" alt="viktorbures" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
