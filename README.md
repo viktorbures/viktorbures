@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorbures&label=Profile%20views&color=0e75b6&style=flat" alt="viktorbures" /> </p>
 
-- 🌱 I’m currently learning *C, HTML and CSS**
+- 🌱 I’m currently learning **C, HTML and CSS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
