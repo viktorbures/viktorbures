@@ -1,4 +1,4 @@
-<h3 align="center">Hi, my name is Viktor Bureš👋</h3>
+<h3 align="center">Hi👋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=viktorbures&label=Profile%20views&color=0e75b6&style=flat" alt="viktorbures" /> </p>
 
