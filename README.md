@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **C, HTML and CSS**
-- 📫 How to reach me **viktor.bures@outlook.cz**
+- 📫 How to reach me **it2402@sspu-opava.cz**
 
 
 <h3 align="left">Connect with me:</h3>
